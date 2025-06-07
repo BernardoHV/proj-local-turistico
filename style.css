@@ -1,0 +1,13 @@
+
+body {margin: 80px;}
+
+img { border-radius: 28px;}
+
+h1 {font-size: 16px;
+color: red;}
+h2 {font-size: 40px;
+padding-bottom: 40px;}
+h1, h2{line-height: 10%;}
+h3 {font-size: 14px;
+color: #6e6a6a;
+margin-right: 55%;}
