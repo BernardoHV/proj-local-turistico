@@ -6,15 +6,28 @@ img {border-radius: 28px;}
 h1 {font-size: 16px;
 color: red;
 text-transform: uppercase;}
+
 h2 {font-size: 40px;
 padding-bottom: 40px;}
+
 h1, h2{line-height: 10%;}
-h3 {font-size: 14px;
+
+#Haedong {margin-bottom: -6%;}
+h3 {font-size: 28px;}
+
+sub {font-size: 14px;
 color: #6e6a6a;
-margin-right: 5%;
-text-align: center;}
+margin-right: 5%;}
+
 p {font-size: 16px;
 text-align: justify;
-margin-right: 30px;}
+margin-right: 30px;
+margin-bottom: 50px;}
+
+#bompara {font-weight: bold;margin-top: -3%;}
+#historia {font-weight: bold;
+color: blue;
+margin-top: -4%;}
+
 
 section {margin-top: 64px;}
