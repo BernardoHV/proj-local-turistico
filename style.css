@@ -27,7 +27,10 @@ margin-bottom: 50px;}
 #bompara {font-weight: bold;margin-top: -3%;}
 #historia {font-weight: bold;
 color: blue;
-margin-top: -4%;}
+margin-top: -5%;}
 
+#descricaobeomeo {margin-top: -2%;}
+#descricaohaedong {margin-top: -2%;}
+#titulobeomeo {margin-top: 10px;}
 
 section {margin-top: 64px;}
