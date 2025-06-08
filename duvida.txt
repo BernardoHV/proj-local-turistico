@@ -1,1 +1,4 @@
 Preciso de uma ajuda. Finalizei o desafio a forma que foi possível kkk. Porém uma coisa me incomodou muito, ao expandir a página com Ctrl e o scroll, aumentar o zoom, o texto, as descrições, tudo fica bagunçado, somente as imagens permanecem no mesmo local. Como posso resolver isso? Estarei olhando novamento as últimas aulas para encontrar meu erro e olharei também o projeto da última aula. Muito obrigado!
+
+Consegui realizar os ajustes e coloquei o commit por aqui e no meu arquivo raiz. Peço a gentileza de verificarem se está tudo correto.
+Muito obrigado!
